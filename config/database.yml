@@ -12,7 +12,7 @@ test:
 production:
   adapter: mysql2
   database: heroku_708dd48ee268902
-  host:  mysql://us-cdbr-iron-east-05.cleardb.net
+  host: us-cdbr-iron-east-05.cleardb.net
   username: b1ef00d6d37506
   password: 808e33a2
   pool: 5
