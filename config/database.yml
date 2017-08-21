@@ -12,6 +12,8 @@ test:
 production:
   adapter: mysql2
   database: my_database_production
-  host:  <%= ENV['CLEARDB_DATABASE_URL'] %>
+  host:  mysql://us-cdbr-iron-east-05.cleardb.net/heroku_708dd48ee268902?reconnect=true
+  username: b1ef00d6d37506
+  password: 808e33a2
   pool: 5
   timeout: 5000
