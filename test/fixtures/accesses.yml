@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  visitor_cookie: MyString
+  url: MyString
+  date: MyString
+
+two:
+  visitor_cookie: MyString
+  url: MyString
+  date: MyString
